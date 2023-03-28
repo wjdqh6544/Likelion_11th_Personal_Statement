@@ -1,0 +1,48 @@
+.interest-title {
+    padding: 50px 40px 30px 70px;
+    margin-top: 20vh;
+    margin-left: 20vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.interest-content {
+    margin-left: 28vw;
+    margin-bottom: 10vh;
+    margin-top: 2vh;
+    width: 30vw;
+    height: 70vh;
+    display: flex;
+    align-items: top;
+    justify-content: flex-start;
+}
+
+.interest-content li {
+    font-size: 40px;
+    padding-bottom: 70px;
+}
+
+.career-title {
+    padding: 50vh 40px 30px 30px;
+    margin-left: 20vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.career-content {
+    margin-left: 28vw;
+    margin-bottom: 10vh;
+    margin-top: 2vh;
+    width: 60vw;
+    height: 70vh;
+    display: flex;
+    align-items: top;
+    justify-content: flex-start;
+}
+
+.career-content p {
+    font-size: 30px;
+    margin-bottom: 50px;
+}

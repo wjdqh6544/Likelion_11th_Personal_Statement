@@ -1,0 +1,55 @@
+.swot-title {
+    padding: 50px 40px 30px 70px;
+    margin-top: 20vh;
+    margin-left: 20vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.swot-box {
+    margin-left: 27vw;
+    margin-bottom: 10vh;
+    width: 66vw;
+    height: 70vh;
+    border: 1.5px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swot-subject {
+    margin-left: 27vw;
+    margin-bottom: 1.5vh;
+    font-size: 30px;
+}
+
+.swot-box table {
+    width: 100%;
+    height: 100%;
+    font-size: 25px;
+}
+
+.swot-box table td {
+    padding: 15px;
+    color: #9e9e9e
+}
+
+.swot-box table td p {
+    font-size: 30px;
+}
+
+.swot-box table td:hover {
+    color: #000000
+}
+
+.swot-box table td p b {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.swot-box table td li {
+    padding-left: 2vw;
+    padding-top: 3vh;
+}
+
